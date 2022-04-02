@@ -4,7 +4,7 @@ Usecase of the model :
 https://www.kaggle.com/polymorphy/notebook6fce5f73cb/notebook
 
 - Task : Image Classification
-- Dataset : 325 kinds of annotated Birds  
+- Dataset : 325 kinds of annotated Birds (The author of the dataset is adding more species.)  
 https://www.kaggle.com/datasets/gpiosenka/100-bird-species  
 ![image](https://user-images.githubusercontent.com/46921525/158408378-e27ec77f-d529-4f59-8232-554f0647c441.png)
 - Classification Accuracy : 85.29,  (1386 / 1625) on test set 
